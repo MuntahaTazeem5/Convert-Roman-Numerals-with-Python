@@ -36,12 +36,6 @@ Algorithmic thinking
 
 Turn history into code! ⚡
 
-yaml
-Copy code
-
----
-
-👉 Do you want me to now write a **clean Python implementation (`roman_converter.py`)** to go along with this README, so the repo is fully ready?
 
 
 
